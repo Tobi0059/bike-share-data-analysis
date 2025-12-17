@@ -19,7 +19,7 @@ decision-making for operational growth.
 ## Visualizations
 
 ### Total Trips per Day
-![Total Trips per Day](visuals/Trips per Day.png)
+[Total Trips per Day](visuals/Trips per Day.png)
 
 **Insight:**  
 Ridership fluctuates throughout the week, with higher usage toward midweek and weekends,
@@ -37,7 +37,7 @@ priority bike rebalancing and maintenance support.
 ---
 
 ### Trips by Hour and Day (Heatmap)
-![Trips by Hour and Day](visuals/Screenshot 2025-12-17 094425.png)
+[Trips by Hour and Day](visuals/Screenshot 2025-12-17 094425.png)
 
 **Insight:**  
 The heatmap shows peak usage during morning and evening commute hours on weekdays,
