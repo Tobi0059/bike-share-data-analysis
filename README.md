@@ -10,7 +10,7 @@ decision-making for operational growth.
 ## Visualizations
 
 ### Trips per Day
-![Trips per Day](visuals/trips_per_day.png)
+![Trips per Day](visuals/Trips per Day.png)
 
 ### Hourly Usage Heatmap
 ![Hourly Heatmap](visuals/hourly_heatmap.png)
