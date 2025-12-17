@@ -59,3 +59,12 @@ while weekend usage is more evenly distributed throughout the day.
 - Target casual riders with weekend promotions and short-term ride passes.
 - Encourage frequent weekday riders to convert to memberships through commuter incentives.
 - Use usage trends to guide future station expansion and operational planning.
+
+## Conclusion
+
+This analysis demonstrates how bike-share usage data can be leveraged to understand
+rider behavior, identify demand patterns, and support data-driven decision-making.
+By analyzing usage trends, station demand, and rider types, actionable recommendations
+were developed to improve bike availability, optimize operations, and increase ridership.
+This project highlights the practical application of data analysis skills in solving
+real-world business problems.
