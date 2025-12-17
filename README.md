@@ -7,3 +7,16 @@ Key insights show that casual riders dominate weekend usage, while members prima
 ride during weekday commute hours. Based on these findings, recommendations were made
 to improve bike availability, target marketing efforts, and support data-driven
 decision-making for operational growth.
+## Visualizations
+
+### Trips per Day
+![Trips per Day](visuals/trips_per_day.png)
+
+### Hourly Usage Heatmap
+![Hourly Heatmap](visuals/hourly_heatmap.png)
+
+### Top Stations by Usage
+![Top Stations](visuals/top_stations.png)
+
+### Station Usage Hotspots
+![Station Map](visuals/station_map.png)
